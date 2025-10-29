@@ -1,0 +1,25 @@
+/* [project]/app/myfont_43e5b7aa.module.css [app-client] (css) */
+@font-face {
+  font-family: myFont;
+  src: url("../media/Akira Expanded-s.p.aa9fb6c2.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: myFont Fallback;
+  src: local(Arial);
+  ascent-override: 401.47%;
+  descent-override: 99.55%;
+  line-gap-override: 48.26%;
+  size-adjust: 20.94%;
+}
+
+.myfont_43e5b7aa-module__zTOLSG__className {
+  font-family: myFont, myFont Fallback;
+}
+
+.myfont_43e5b7aa-module__zTOLSG__variable {
+  --font-heading: "myFont", "myFont Fallback";
+}
+
+/*# sourceMappingURL=app_myfont_43e5b7aa_module_css_bad6b30c._.single.css.map*/

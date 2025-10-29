@@ -1,0 +1,11 @@
+{
+  "app": {
+    "[project]/app/page": [
+      "static/media/Akira Expanded-s.p.aa9fb6c2.otf",
+      "static/media/1b99372b3eaef0c8-s.p.758e15a8.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
